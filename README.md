@@ -1,3 +1,4 @@
-# TUgas2-prak.MobileProgramming
-# Prak-Mobile_programming_tugas2
-# tugas2_Praktikum_Mobile
+# TUgas2 praktikum Mobile Programming
+
+user admin : admin@uinsgd.ac.id
+pass admin : admin
